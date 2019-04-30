@@ -16,9 +16,16 @@ class ViewController: UIViewController {
     }
     
     @IBAction func showArlet() {
-        print("Hello")
+        
+        let alert = UIAlertController(title: "Hello, World", message: "We putting iOS into practice", preferredStyle: .alert)
+        
+        let action = UIAlertAction(title: "Awesome", style: .default, handler: nil)
+        
+        alert.addAction(action)
+        
+        present(alert, animated: true, completion: nil)
+        
     }
-
 
 }
 
