@@ -1,5 +1,3 @@
-Going through Raywerndelich BullsEye App exercise.
------------------------------------------------
 Notes on creating an alert controller :
 -------------------------------------------
 
