@@ -1,8 +1,10 @@
-This is where I will record my lessons/mistakes I make/pickup while practicing and reminding myself of the swift concepts from Playgrounds. 
+CHALLENGE TIME!
+--------------------------
+Add another button to the screen that says "knock, knock". If you tap it, the app should popup a message that says "Who's There?"
 
-Each chapter's lessons, key points and oh aha moments as well as mistakes I will be discussed. 
+HINT: Use the showAlert() as an example.
 
-The branches will be named according to the topic covered. I commit to this to at least 2 hours a day. 
+HINT: Control-drag from the button to the view controller to connect the action.
 
 
 
